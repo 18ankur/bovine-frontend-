@@ -1,4 +1,4 @@
-# 🐄 Cattle Breed Detection System
+#  Cattle Breed Detection System
 
 ## 📌 Overview
 
@@ -37,33 +37,6 @@ sector by providing a fast and automated way to recognize cattle breeds.
     │── app.py                  
     │── requirements.txt        
     │── README.md               
-
-------------------------------------------------------------------------
-
-## ⚙️ Installation
-
-``` bash
-git clone https://github.com/18ankur/cattle-breed-detection.git
-cd cattle-breed-detection
-pip install -r requirements.txt
-```
-
-------------------------------------------------------------------------
-
-## ▶️ Usage
-
-### Train the Model
-
-``` bash
-python train_model.py
-```
-
-### Run Prediction
-
-``` bash
-python app.py
-```
-
 ------------------------------------------------------------------------
 
 ## 📊 Model Details
@@ -71,13 +44,6 @@ python app.py
 -   CNN-based image classification\
 -   Multi-class breed detection\
 -   Accuracy depends on dataset size and quality
-
-------------------------------------------------------------------------
-
-## 📸 Demo
-
-Add your LinkedIn video link here
-
 ------------------------------------------------------------------------
 
 ## 🎯 Future Improvements
@@ -88,7 +54,3 @@ Add your LinkedIn video link here
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
-
-**Ankur Sangwan**\
-https://github.com/18ankur
